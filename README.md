@@ -5,7 +5,13 @@
 
 ###
 
-<p align="left">📚 I'm currently learning running NN in FPGA<br>🎯 Goals: Build an App!<br>🎲 Fun fact: I love philosophy</p>
+<p align="left">
+👩‍🎓 CUHK Electronic Engineering Student with minor in Business<br>
+🏆 Techcathon+ 2025 Bronze Award<br>
+📚 I'm currently learning how to accelerate NN training with FPGA<br>
+🎯 Goals: Build an App!<br>
+🎲 Fun fact: I love philosophy
+</p>
 
 ###
 
