@@ -8,7 +8,6 @@
 <p align="left">
 👩‍🎓 CUHK Electronic Engineering Student with minor in Business<br>
 🏆 Techcathon+ 2025🥉<br>
-📚 I'm currently learning how to accelerate NN training with FPGA<br>
 🎯 Goals: Build an App!<br>
 🎲 Fun fact: I love reading philosophy
 </p>
