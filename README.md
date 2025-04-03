@@ -7,7 +7,8 @@
 
 <p align="left">
 👩‍🎓 CUHK Electronic Engineering Student with minor in Business<br>
-🏆 Techcathon+ 2025🥉<br>
+✨ CoFounder of Carbon Able and Write Right<br>
+🏆 Techcathon+🥉<br>
 🎯 Goals: Build an App!<br>
 🎲 Fun fact: I love reading philosophy
 </p>
