@@ -6,7 +6,7 @@
 ###
 
 <p align="left">
-👩‍🎓 CUHK Electronic Engineering Student with minor in Business<br>
+🔧 Electronic Engineer in Progress! <br>
 ✨ CoFounder of Carbon Able and Write Right<br>
 🏆 Techcathon+🥉<br>
 🎯 Goals: Build an App!<br>
